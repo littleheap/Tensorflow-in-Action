@@ -1,4 +1,4 @@
-# TensorflowPractice
+# Tensorflow in Action
 🌀 《TensorFlow实战》 黄文坚 | 唐源 - 源代码讲解
 
 * ### 1 TensorFlow基础
